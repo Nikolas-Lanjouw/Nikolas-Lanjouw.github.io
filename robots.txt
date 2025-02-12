@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://nikolanjouw.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://Nikolas-Lanjouw.github.io/sitemap.xml
