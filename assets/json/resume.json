@@ -14,9 +14,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Bluesky",
+        "username": "@niko-lanjouw.bsky.social",
+        "url": "@niko-lanjouw.bsky.social"
       }
     ]
   },
@@ -183,12 +183,21 @@
         "Community engagement",
         "Science communication"
       ]
-    }
+    },
     {
       "name": "Participatory planning",
       "icon": "fa-solid fa-tag",
       "keywords":[
         "Digital engagement"
+      ]
+    },
+    {
+      "name": "Energy Transition",
+      "icon": "",
+      "keywords":[
+        "GHG emissions accounting",
+        "Renewable energy",
+        "Electrification"
       ]
     }
   ],
