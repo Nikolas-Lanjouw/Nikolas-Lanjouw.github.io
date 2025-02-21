@@ -29,7 +29,7 @@
       "endDate": "2024-12-08",
       "summary": "Led design and facilitation of capacity building workshop on participatory planning methodologies. Conducted research and analysis for Global Public Space Programme assessments of partner cities. Contributing to development of normative material on urban ghg accounting case-studies, and environmental impact of rapid urbanization on biodiversity..",
       "highlights": ["Community Engagement, Serious Games, Climate resilience, Urban nature conservation"]
-    }
+    },
     {
       "name": "Wageningen University Student Challenge Team",
       "position": "Communication specialist",
@@ -38,7 +38,7 @@
       "endDate": "2022-10-28",
       "summary": "Responsible for creative design and production of communication material for Wageningen University Student Challenges. Lead on outreach and social media.",
       "highlights": ["Communications"]
-    }
+    },
     {
       "name": "The Netherlands Red Cross | 510 global",
       "position": "Design Consultant",
@@ -47,7 +47,7 @@
       "endDate": "2021-10-05",
       "summary": "Design and development of user experience and user interface for humanitarian applications (Helpful information app) and dashboards (Early warning system). Developed and maintained design documentation and digital platform of design language, components and code for 510 applications.",
       "highlights": ["Design, UX/UI, Knowledge management, Humanitarian response"]
-    }
+    },
     {
       "name": "Doh Eain | Renewing Yagon",
       "position": "Innovation & engagement intern",
@@ -81,6 +81,17 @@
       "endDate": "2023-12-01",
       "score": "N/A",
       "courses": ["Environmental impact analysis, Advanced Environmental Economics & Policy, Planning praxis, Sustainble urban service delivery, Research methodology for environmental sciences"]
+    },
+    {
+      "institution": "HanzeHogeschool",
+      "location": "Groningen, The Netherlands",
+      "url": "https://www.hanze.nl",
+      "area": "Multimedia Design & Development",
+      "studyType": "Bachelors of Science",
+      "startDate": "2016-10-01",
+      "endDate": "2020-06-01",
+      "score": "N/A",
+      "courses": ["Games design, Intro to statistics, Ethics of Media"]
     }
   ],
   "awards": [
@@ -94,10 +105,10 @@
   ],
   "certificates": [
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "GIS for Climate Action",
+      "date": "2023-12-01",
+      "issuer": "esri",
+      "url": "https://www.esri.com/training/?rsource=https%3A%2F%2Fwww.esri.com%2Ftraining,
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
@@ -122,7 +133,7 @@
       "releaseDate": "2025-03-04",
       "url": "",
       "summary": "This article discusses the value of games as participatory planning tools and processes for inclusive urban planning. It highlights key concepts and outlines a framework for incorperatingi games into participatory planning processes."
-    }
+    },
     {
       "name": "Healthier Cities and Communities through Public Spaces",
       "publisher": "UN-Habitat",
@@ -141,7 +152,7 @@
         "Nature-based solutions",
         "Participatory planning"
       ]
-    }
+    },
     {
       "name":"Community engagement",
       "level": "Competent",
@@ -149,7 +160,7 @@
       "keywords": [
         "Workshop facilitation"
       ]
-    }
+    },
     {
       "name": "GIS",
       "level": "Competent",
@@ -171,7 +182,6 @@
       "language": "Dutch",
       "fluency": "Intermediate",
       "icon": ""
-    }
     }
   ],
   "interests": [
