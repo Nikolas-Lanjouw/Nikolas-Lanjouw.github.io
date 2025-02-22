@@ -156,7 +156,7 @@
     {
       "name":"Community engagement",
       "level": "Competent",
-      "icon":"fa-solid fa-hashtag"
+      "icon":"fa-solid fa-hashtag",
       "keywords": [
         "Workshop facilitation"
       ]
