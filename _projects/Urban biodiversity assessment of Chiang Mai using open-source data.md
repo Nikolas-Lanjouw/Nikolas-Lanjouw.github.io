@@ -1,0 +1,58 @@
+---
+layout: page
+title: Urban biodiversity assessment of Chiang Mai using open-source data
+description: Project profile and methods
+img: assets/img/project.jpg
+importance: 1
+category: work
+related_publications: false
+---
+
+Natural landscapes spaces both public and private contribute multi-dimensional benefits to urban and peri-urban users. Ecosystem services rendered by green and blue infrastructure can be a key determinant in quality of life, economic prosperity, food security, health and safety.  Tracking species distribution and abundance is the first step in enabling accurate future oriented planning to safeguard and boost the benefits of urban biodiversity. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Project_splash.png" title="Splash" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Photo by Craig Mckay
+</div>
+
+**Research questions**
+
+In this study I propose conducting a preliminary study of biodiversity in the municipality of Chiang Mai using available open-source data. The goal will be to develop a series of maps and figures that communicate clearly existing trends in biodiversity dynamics in Chiang Mai that can be understood from community driven data collection. I expect to find some studies have already been completed, but this project will focus on data drawn from growing community science platforms including Inaturalist, Merlin, GBIF and other sources.
+
+**Methodology**
+
+The study will follow 4 phases:
+1)	Desktop research
+2)	Interviews & community engagement
+3)	Performing data collection and analysis
+4)	Report writing
+
+The methodology of this paper is adapted from a study done in Los Angles, US by Li et al (2019). The paper outlines a method for determining and matching municipal spatial zoning with urban habitat classes. To do this several environmental variables are identified and filtered based on available data, timeframe, and ‘explainability’ of key biodiversity metrics valuable to municipal planners, civil organizations and scientists. The scheme organizes variables by three categories. 1) Biophysical landscape 2) The built environment 3) human social structure. 
+In adapting this schema to Chiang Mai I will engage with local authorities, local experts and relevant communities (ex: bird watching groups). I will perform interviews for available experts and as time allows on a snowball sampling basis. Interviews will be open-ended and semi-structured focusing on identifying key variables and valid data sources for analysis. The purpose of the interviews will be to identify key metrics to collect data for.
+Spatial analysis of biodiversity data will be sourced from open-source community platforms including Inaturalist, Merlin bird identifier, among others. Data will be drawn from spatial boundaries to be determined and from the time frame 2010-2025.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/topographic map - Taweelarp et al 2021.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/topographic_physical_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/biosphere_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Maps of chaing Mai. In order from left to right; Regional topographic map, physical topographic model, Biosphere map of Chiang Mai.
+</div>
+
+**Cited Sources**
+Li, E., Parker, S. S., Pauly, G. B., Randall, J. M., Brown, B. V., & Cohen, B. S. (2019). An Urban Biodiversity Assessment Framework That Combines an Urban Habitat Classification Scheme and Citizen Science Data. Frontiers in Ecology and Evolution, 7, 277. [title](https://doi.org/10.3389/fevo.2019.00277)
+ 
+
+
