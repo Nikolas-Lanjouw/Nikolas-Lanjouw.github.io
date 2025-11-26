@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Nikolas Lanjouw
 permalink: /
 subtitle: <a href='#'>Nikolas Kalin Lanjouw</a>. Urban environmental planner.
 
