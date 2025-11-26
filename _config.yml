@@ -272,7 +272,7 @@ scholar:
   last_name: [Nikolas]
   first_name: [Lanjouw]
 
-  style: MLA7
+  style: apa
   locale: en
 
   source: /_bibliography/
